@@ -8,6 +8,7 @@ export default function Hero()
             <img alt="nature" src={Nature} className="nature-image" />
             <h1 className="hero-header">Calming Experience</h1>
             <p className="hero-text">Meditate now, reduce anxiety and focus on the present</p>
+            <h2>Audio</h2>
         </div>
 
     );
